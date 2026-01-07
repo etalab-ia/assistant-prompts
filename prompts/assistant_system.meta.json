@@ -1,0 +1,6 @@
+{
+    "description": "Prompt système principal de l'assistant.",
+    "tags": ["system", "assistant"],
+    "owner": "team",
+    "enabled": true
+  }
